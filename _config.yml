@@ -1,15 +1,3 @@
 theme: jekyll-theme-cayman
-
-#Setup
-title: [Natch support knowledge base]
-description:
-baseurl: ""
-paginate:
-values:
-  layout:
+title: Natch support knowledge base
   
-# Contact
-author:
-  name: Natch support
-  url: https://esc.be/support/
-  baseurl: 
